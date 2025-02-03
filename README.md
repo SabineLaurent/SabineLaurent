@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 - 📫 You can reach me on LinkedIn or by email.
 
-- ⚡ Fun fact: I enjoy jokes, wordplay, and puns.
+- ⚡ Fun fact: I enjoy jokes, wordplays, and puns.
