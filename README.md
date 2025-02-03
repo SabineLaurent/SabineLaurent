@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sabine
 
-### I'm a **full-stack developper** learner from France.
+### I'm a **full-stack developer** learner from France.
 
 ## About me
 
@@ -10,11 +10,9 @@
 
 - 👯 I'm looking to collaborate on open-source projects.
 
-
-
 - ⚡ Fun fact: I enjoy jokes, wordplay, and puns.
 
-## 🔧 My toolbox 
+## 🔧 My toolbox
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
@@ -31,9 +29,8 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
 ![Whimsical](https://img.shields.io/badge/Whimsical-FF4A00?style=plastic&logoColor=white)
 
+-- Further informations are coming soon --
 
-## 📫 Let's Connect!
+<!-- ## 📫 Let's Connect!
 
-
-![SabineLaurent's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabinelaurent&theme=vision-friendly-dark&show_icons=true&include_all_commits=true)
-
+![SabineLaurent's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabinelaurent&theme=vision-friendly-dark&show_icons=true&include_all_commits=true) --> 
