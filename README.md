@@ -1,26 +1,28 @@
-<h1 align="center">Hi 👋, I'm Sabine</h1>
+# Hi 👋, I'm Sabine
 
-<!--
-**SabineLaurent/SabineLaurent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a **full-stack developper** learner from France.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
 
 - 🌱 I'm currently learning Node.js with Express and how to work with databases (PostgreSQL).
 
-- 👨‍💻 Soon, all of my projects will be available in public repositories. So, stay tuned! ;)
+- 👨‍💻 Soon, all my projects will be available in public repositories. Stay tuned! ;)
 
 - 👯 I'm looking to collaborate on open-source projects.
 
-- 📫 You can reach me on LinkedIn or by email.
 
-- ⚡ Fun fact: I enjoy jokes, wordplays, and puns.
+
+- ⚡ Fun fact: I enjoy jokes, wordplay, and puns.
+
+## 🔧 My toolbox 
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+## 📫 Let's Connect!
+
+
+![SabineLaurent's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabinelaurent&theme=vision-friendly-dark&show_icons=true&include_all_commits=true)
+
