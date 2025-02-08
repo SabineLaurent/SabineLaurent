@@ -29,8 +29,13 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
 ![Whimsical](https://img.shields.io/badge/Whimsical-FF4A00?style=plastic&logoColor=white)
 
+## 📊 My GitHub Stats
+
+![sabinelaurent's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabinelaurent&include_all_commits=false&theme=vision-friendly-dark&show_icons=true&hide_title=true&border_radius=40)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabinelaurent&size_weight=0.5&count_weight=0.5&border_radius=40)
+
+
 -- Further informations are coming soon --
 
 <!-- ## 📫 Let's Connect!
 
-![SabineLaurent's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabinelaurent&theme=vision-friendly-dark&show_icons=true&include_all_commits=true) --> 

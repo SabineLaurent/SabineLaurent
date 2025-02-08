@@ -20,4 +20,3 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-![SabineLaurent's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabinelaurent&theme=vision-friendly-dark&show_icons=true&include_all_commits=true)
