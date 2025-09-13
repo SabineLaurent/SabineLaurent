@@ -1,11 +1,11 @@
 # Hi 👋, I'm Sabine
 
-### I'm a **full-stack developer** learner from France.
+### I'm a **full-stack developer** from France.
 
 ## About me
 
-- 🌱 I'm currently learning Node.js with Express and how to work with databases (PostgreSQL).
-
+- 🌱 I'm currently learning Swift and SwiftUI to develop apps for iOS devices (Apple Foundation Program)
+  
 - 👨‍💻 Soon, all my projects will be available in public repositories. Stay tuned! ;)
 
 - 👯 I'm looking to collaborate on open-source projects.
