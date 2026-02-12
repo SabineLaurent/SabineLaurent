@@ -4,7 +4,7 @@
 
 ## About me
 
-- 🌱 I'm currently learning python   
+- 🌱 I'm currently learning python 🐍
   
 - 👨‍💻 Soon, all my projects will be available in public repositories. Stay tuned! ;)
 
