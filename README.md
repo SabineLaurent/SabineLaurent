@@ -9,9 +9,11 @@
 	</div>
 </a>
 </div>
-<img src="img/hero-margin-bottom.svg" alt="" width="1" height="32"/>
+<img src="img/hero-margin-bottom.svg" alt="" width="1" height="24"/>
 
 ---
+
+<br>
 
 ## About me
 
