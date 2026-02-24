@@ -1,16 +1,16 @@
 # Hi 👋, I'm Sabine
 
-<div align="center" style="margin-top:32px; margin-bottom:65px;">
-
+<img src="img/hero-margin-top.svg" alt="" width="1" height="56"/>
+<div align="center">
 <img src="img/hero-title.svg" alt="I'm a full-stack developer" width="720" height="50"/>
-
 <a href="https://git.io/typing-svg">
-	<div style="height:50px; display:flex; align-items:center; justify-content:center;">
+	<div style="height:80px; display:flex; align-items:center; justify-content:center;">
 		<img src="https://readme-typing-svg.herokuapp.com?font=Oooh+Baby&size=32&duration=3600&pause=1000&center=true&repeat=false&width=720&height=50&lines=Always+eager+to+learn+new+things+and+take+on+new+challenges!" alt="Typing SVG" />
 	</div>
 </a>
-
 </div>
+<img src="img/hero-margin-bottom.svg" alt="" width="1" height="32"/>
+
 
 ---
 
@@ -26,9 +26,9 @@
   
 - 🚀 More public repos coming soon - stay tuned!
 
-## My Dev Superpowers
+## My dev SuperPowers
 
-I can :
+I can *(not an exhaustive list, capabilities are extendable with time and a lot of practice)*:
 
 - create Super web and mobile apps;
 - develop secured backends;
