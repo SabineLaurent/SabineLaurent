@@ -1,18 +1,43 @@
 # Hi 👋, I'm Sabine
 
-### I'm a **full-stack developer** from France.
+<div align="center" style="margin-top:32px; margin-bottom:65px;">
+
+<p style="font-size:48px; font-family:monospace;">I'm a full-stack developer</p>
+<a href="https://git.io/typing-svg">
+	<div style="height:50px; display:flex; align-items:center; justify-content:center;">
+		<img src="https://readme-typing-svg.herokuapp.com?font=Oooh+Baby&size=32&duration=3600&pause=1000&center=true&repeat=false&width=720&height=50&lines=Always+eager+to+learn+new+things+and+take+on+new+challenges!" alt="Typing SVG" />
+	</div>
+</a>
+
+</div>
+
+---
 
 ## About me
 
-- 🌱 I'm currently learning python 🐍
+- 💻 **Full-stack developer** with a love for clean, readable code;
   
-- 👨‍💻 Soon, all my projects will be available in public repositories. Stay tuned! ;)
+- 🌱 Currently levelling up with **Python** 🐍, and preparing for my next challenge: diving into **AI development**;
+  
+- 🤝 Looking to collaborate on **open-source projects**;
+  
+- ⚡ Fun fact: I'm fluent in jokes, wordplay - almost as fluent as in JavaScript;
+  
+- 🚀 More public repos coming soon - stay tuned!
 
-- 👯 I'm looking to collaborate on open-source projects.
+## My Dev Superpowers
 
-- ⚡ Fun fact: I enjoy jokes, wordplay, and puns.
+I can :
 
-## 🔧 My toolbox
+- create Super web and mobile apps;
+- develop secured backends;
+- deal with SQL queries;
+- design user-friendly interfaces;
+- and of course, write scalable, maintainable code - at least, I do my best to achieve it!
+
+Always with a smile and a hot drink (coffee or tea, your pick 🍵) — because for me, coding is about enjoying the ride, not just writing lines of code!
+
+## My Dev Toolbox
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
