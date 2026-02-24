@@ -2,7 +2,8 @@
 
 <div align="center" style="margin-top:32px; margin-bottom:65px;">
 
-<p style="font-size:48px; font-family:monospace;">I'm a full-stack developer</p>
+### `I'm a full-stack developer`
+
 <a href="https://git.io/typing-svg">
 	<div style="height:50px; display:flex; align-items:center; justify-content:center;">
 		<img src="https://readme-typing-svg.herokuapp.com?font=Oooh+Baby&size=32&duration=3600&pause=1000&center=true&repeat=false&width=720&height=50&lines=Always+eager+to+learn+new+things+and+take+on+new+challenges!" alt="Typing SVG" />
