@@ -1,11 +1,11 @@
 # Hi 👋, I'm Sabine
 
-<img src="img/hero-margin-top.svg" alt="" width="1" height="56"/>
+<img src="img/hero-margin-top.svg" alt="" width="1" height="32"/>
 <div align="center">
 <img src="img/hero-title.svg" alt="I'm a full-stack developer" width="720" height="50"/>
 <a href="https://git.io/typing-svg">
 	<div style="height:80px; display:flex; align-items:center; justify-content:center;">
-		<img src="https://readme-typing-svg.herokuapp.com?font=Oooh+Baby&size=32&duration=3600&pause=1000&center=true&repeat=false&width=720&height=50&lines=Always+eager+to+learn+new+things+and+take+on+new+challenges!" alt="Typing SVG" />
+		<img src="https://readme-typing-svg.herokuapp.com?font=Oooh+Baby&size=32&duration=3600&pause=1000&center=true&repeat=false&width=720&height=80&lines=Always+eager+to+learn+new+things+and+take+on+new+challenges!" alt="Typing SVG" />
 	</div>
 </a>
 </div>
