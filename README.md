@@ -1,7 +1,6 @@
 # Hi 👋, I'm Sabine
 
 <img src="img/hero-margin-top.svg" alt="" width="1" height="32"/>
-<div align="center">
 <img src="img/hero-title.svg" alt="I'm a full-stack developer" width="720" height="50"/>
 <a href="https://git.io/typing-svg">
 	<div style="height:80px; display:flex; align-items:center; justify-content:center;">
