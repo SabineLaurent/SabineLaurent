@@ -2,7 +2,7 @@
 
 <div align="center" style="margin-top:32px; margin-bottom:65px;">
 
-### `I'm a full-stack developer`
+<img src="img/hero-title.svg" alt="I'm a full-stack developer" width="720" height="50"/>
 
 <a href="https://git.io/typing-svg">
 	<div style="height:50px; display:flex; align-items:center; justify-content:center;">
