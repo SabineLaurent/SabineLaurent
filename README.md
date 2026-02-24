@@ -11,7 +11,6 @@
 </div>
 <img src="img/hero-margin-bottom.svg" alt="" width="1" height="32"/>
 
-
 ---
 
 ## About me
@@ -26,9 +25,11 @@
   
 - 🚀 More public repos coming soon - stay tuned!
 
+<br>
+
 ## My dev SuperPowers
 
-I can *(not an exhaustive list, capabilities are extendable with time and a lot of practice)*:
+I can *(not an exhaustive list, capabilities are extendable with time and a lot of practice* 🤓 *)*:
 
 - create Super web and mobile apps;
 - develop secured backends;
@@ -38,7 +39,9 @@ I can *(not an exhaustive list, capabilities are extendable with time and a lot 
 
 Always with a smile and a hot drink (coffee or tea, your pick 🍵) — because for me, coding is about enjoying the ride, not just writing lines of code!
 
-## My Dev Toolbox
+<br>
+
+## My Toolbox
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
@@ -56,6 +59,8 @@ Always with a smile and a hot drink (coffee or tea, your pick 🍵) — because 
 ![Whimsical](https://img.shields.io/badge/Whimsical-FF4A00?style=plastic&logoColor=white)
 
 -- Further informations are coming soon --
+
+<br>
 
 <!-- ## 📫 Let's Connect! -->
 
