@@ -32,7 +32,7 @@
 	<source srcset="img/expected-start-date.svg" media="(prefers-color-scheme: dark)">
 	<img src="img/expected-start-date_for-client-light-mode.svg" alt="Expected work-study start date on" width="340" height="50">
 </picture>
-<img src="img/date-stamp.svg" alt="Availability date stamp for work opportunities" width="350" style="vertical-align:middle; opacity:0.85;"/>
+<img src="img/date-stamp.svg" alt="Availability date stamp for work opportunities" width="300" style="vertical-align:middle; opacity:0.85;"/>
 </div>
 
 ## About me
