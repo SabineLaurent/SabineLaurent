@@ -18,9 +18,10 @@
 <br>
 
  > [!IMPORTANT] 
- > I'm currently looking for my next opportunity as:
- > - AI developer intern; 
- > - data scientist intern.
+ > I'm currently looking for a work-study opportunity in:
+ > - AI developement;
+ > - data science;
+ > - machine learning.
  >
  > If you know of any exciting projects or companies that could use my skills, please don't hesitate to reach out. I'm open to remote work and eager to contribute to innovative teams. Let's connect and see how we can collaborate!
 <div align="right">
