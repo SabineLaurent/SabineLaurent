@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="stamp-blur" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="1.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g transform="rotate(-8 80 80)">
+    <circle cx="80" cy="80" r="70" fill="none" stroke="#B22222" stroke-width="7" filter="url(#stamp-blur)" opacity="0.85"/>
+    <text x="80" y="65" text-anchor="middle" font-family="Fira Mono, Fira Code, Menlo, Monaco, Consolas, monospace" font-size="16" fill="#B22222" filter="url(#stamp-blur)" font-weight="bold" style="letter-spacing:0.12em; text-transform:uppercase; opacity:0.92;">AVAILABLE FOR</text>
+    <text x="80" y="90" text-anchor="middle" font-family="Fira Mono, Fira Code, Menlo, Monaco, Consolas, monospace" font-size="16" fill="#B22222" filter="url(#stamp-blur)" font-weight="bold" style="letter-spacing:0.12em; text-transform:uppercase; opacity:0.92;">EMPLOYMENT</text>
+    <text x="80" y="115" text-anchor="middle" font-family="Fira Mono, Fira Code, Menlo, Monaco, Consolas, monospace" font-size="14" fill="#B22222" filter="url(#stamp-blur)" font-weight="bold" style="letter-spacing:0.10em; text-transform:uppercase; opacity:0.92;">FROM SEPTEMBER 2026</text>
+  </g>
+</svg>

@@ -1,14 +1,18 @@
 # Hi 👋, I'm Sabine
 
+<div align="center">
 <img src="img/hero-margin-top.svg" alt="" width="1" height="32"/>
-<img src="img/hero-title.svg" alt="I'm a full-stack developer" width="720" height="50"/>
+<picture>
+	<source srcset="img/hero-title.svg" media="(prefers-color-scheme: dark)">
+	<img src="img/hero-title_for-client-light-mode.svg" alt="I'm a full-stack developer" width="720" height="50">
+</picture>
 <a href="https://git.io/typing-svg">
 	<div style="height:80px; display:flex; align-items:center; justify-content:center;">
-		<img src="https://readme-typing-svg.herokuapp.com?font=Oooh+Baby&size=32&duration=3600&pause=1000&center=true&repeat=false&width=720&height=80&lines=Always+eager+to+learn+new+things+and+take+on+new+challenges!" alt="Typing SVG" />
+		<img src="https://readme-typing-svg.herokuapp.com?font=Oooh+Baby&size=32&duration=3600&pause=1000&center=true&repeat=false&width=720&height=80&color=blue&lines=Always+eager+to+learn+new+things+and+take+on+new+challenges!" alt="Typing SVG" />
 	</div>
 </a>
-</div>
 <img src="img/hero-margin-bottom.svg" alt="" width="1" height="24"/>
+</div>
 
 ---
 
@@ -18,11 +22,11 @@
 
 - 💻 **Full-stack developer** with a love for clean, readable code;
   
-- 🌱 Currently levelling up with **Python** 🐍, and preparing for my next challenge: diving into **AI development**;
+- 🌱 Currently levelling up with **Python** 🐍, and preparing for **my next challenge: diving into AI development**;
   
 - 🤝 Looking to collaborate on **open-source projects**;
   
-- ⚡ Fun fact: I'm fluent in jokes, wordplay - almost as fluent as in JavaScript;
+- ⚡ Fun fact: I'm fluent in jokes and wordplay - almost as fluent as in JavaScript (unless it's the other way around...)
   
 - 🚀 More public repos coming soon - stay tuned!
 
@@ -33,7 +37,7 @@
 I can *(not an exhaustive list, capabilities are extendable with time and a lot of practice* 🤓 *)*:
 
 - create Super web and mobile apps;
-- develop secured backends;
+- develop secured backends as recommended by OWASP;
 - deal with SQL queries;
 - design user-friendly interfaces;
 - and of course, write scalable, maintainable code - at least, I do my best to achieve it!
