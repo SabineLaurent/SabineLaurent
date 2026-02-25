@@ -1,7 +1,7 @@
 # Hi 👋, I'm Sabine
 
-<div align="center">
 <img src="img/hero-margin-top.svg" alt="" width="1" height="32"/>
+<div align="center">
 <picture>
 	<source srcset="img/hero-title.svg" media="(prefers-color-scheme: dark)">
 	<img src="img/hero-title_for-client-light-mode.svg" alt="I'm a full-stack developer" width="720" height="50">
@@ -11,8 +11,8 @@
 		<img src="https://readme-typing-svg.herokuapp.com?font=Oooh+Baby&size=32&duration=3600&pause=1000&center=true&repeat=false&width=720&height=80&color=blue&lines=Always+eager+to+learn+new+things+and+take+on+new+challenges!" alt="Typing SVG" />
 	</div>
 </a>
-<img src="img/hero-margin-bottom.svg" alt="" width="1" height="24"/>
 </div>
+<img src="img/hero-margin-bottom.svg" alt="" width="1" height="32"/>
 
 ---
 
