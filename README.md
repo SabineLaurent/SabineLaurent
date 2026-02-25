@@ -15,8 +15,18 @@
 <img src="img/hero-margin-bottom.svg" alt="" width="1" height="32"/>
 
 ---
-
 <br>
+
+ > [!IMPORTANT] 
+ > I'm currently looking for my next opportunity as:
+ > - data scientist 
+ > - python developer
+ > - AI developer
+ >
+ > If you know of any exciting projects or companies that could use my skills, please don't hesitate to reach out. I'm open to remote work and eager to contribute to innovative teams.
+ >Let's connect and see how we can collaborate!
+
+<img src="img/date-stamp.svg" alt="Availability date stamp for work opportunities" width="300" style="vertical-align:middle; margin-left:350px; margin-top: -350px; opacity:0.85;"/>
 
 ## About me
 
