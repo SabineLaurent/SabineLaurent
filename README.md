@@ -15,8 +15,6 @@
 <img src="img/hero-margin-bottom.svg" alt="" width="1" height="32"/>
 
 ---
-<br>
-
  > [!IMPORTANT] 
  > I'm currently seeking a **work-study opportunity** in:
  > - AI developement;
@@ -34,6 +32,10 @@
 </picture>
 <img src="img/date-stamp.svg" alt="Availability date stamp for work opportunities" width="300" style="vertical-align:middle; opacity:0.85;"/>
 </div>
+
+---
+
+<br>
 
 ## About me
 
