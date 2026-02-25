@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="520" height="50" viewBox="0 0 520 50" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="520" height="50" fill="#FFF8F0"/>
-  <text x="260" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Fira Mono, Fira Code, Menlo, Monaco, Consolas, monospace" font-size="32" fill="#222">
+  <rect width="520" height="50" fill="#EEF6F6"/>
+  <text x="260" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Fira Mono, Fira Code, Menlo, Monaco, Consolas, monospace" font-size="32" fill="#123336">
     I'm a full-stack developer
   </text>
 </svg>
