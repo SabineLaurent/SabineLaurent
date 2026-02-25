@@ -4,7 +4,7 @@
 <div align="center">
 <picture>
 	<source srcset="img/hero-title.svg" media="(prefers-color-scheme: dark)">
-	<img src="img/hero-title_for-client-light-mode.svg" alt="I'm a full-stack developer" width="720" height="50">
+	<img src="img/hero-title_for-client-light-mode.svg" alt="I'm a full-stack developer" width="520" height="50">
 </picture>
 <a href="https://git.io/typing-svg">
 	<div style="height:80px; display:flex; align-items:center; justify-content:center;">
