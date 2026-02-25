@@ -35,6 +35,8 @@
 <img src="img/date-stamp.svg" alt="Availability date stamp for work opportunities" width="300" style="vertical-align:middle; opacity:0.85;"/>
 </div>
 
+<br>
+
 ## About me
 
 - 💻 **Full-stack developer** with a love for clean, readable code;
