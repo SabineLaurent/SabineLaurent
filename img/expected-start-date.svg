@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="340" height="50" viewBox="0 0 340 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <text x="170" y="50%" dominant-baseline="middle" text-anchor="middle"
+    font-family="Fira Mono, Fira Code, Menlo, Monaco, Consolas, monospace"
+    font-size="18"
+    fill="#EEF6F6">
+    Expected work-study start date:
+  </text>
+</svg>

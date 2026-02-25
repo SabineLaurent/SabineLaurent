@@ -18,14 +18,21 @@
 <br>
 
  > [!IMPORTANT] 
- > I'm currently looking for a work-study opportunity in:
+ > I'm currently seeking a **work-study opportunity** in:
  > - AI developement;
  > - data science;
  > - machine learning.
  >
  > If you know of any exciting projects or companies that could use my skills, please don't hesitate to reach out. I'm open to remote work and eager to contribute to innovative teams. Let's connect and see how we can collaborate!
-<div align="right">
-<img src="img/date-stamp.svg" alt="Availability date stamp for work opportunities" width="300" style="vertical-align:top; margin-left:0px; margin-top: -350px; opacity:0.85;"/>
+
+<br>
+
+<div align="center">
+<picture>
+	<source srcset="img/expected-start-date.svg" media="(prefers-color-scheme: dark)">
+	<img src="img/expected-start-date_for-client-light-mode.svg" alt="Expected work-study start date on" width="340" height="50">
+</picture>
+<img src="img/date-stamp.svg" alt="Availability date stamp for work opportunities" width="350" style="vertical-align:middle; opacity:0.85;"/>
 </div>
 
 ## About me
