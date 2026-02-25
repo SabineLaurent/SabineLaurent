@@ -24,7 +24,7 @@
  >
  > If you know of any exciting projects or companies that could use my skills, please don't hesitate to reach out. I'm open to remote work and eager to contribute to innovative teams. Let's connect and see how we can collaborate!
 <div align="right">
-<img src="img/date-stamp.svg" alt="Availability date stamp for work opportunities" width="300" style="vertical-align:middle; margin-left:0px; margin-top: -350px; opacity:0.85;"/>
+<img src="img/date-stamp.svg" alt="Availability date stamp for work opportunities" width="300" style="vertical-align:top; margin-left:0px; margin-top: -350px; opacity:0.85;"/>
 </div>
 
 ## About me
