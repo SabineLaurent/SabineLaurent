@@ -58,59 +58,69 @@ I can *(not an exhaustive list, capabilities are extendable with time and a lot 
 - create Super web and mobile apps;
 - develop secured backends as recommended by OWASP;
 - deal with SQL queries;
-- design user-friendly interfaces;
+- design responsive ande user-friendly interfaces;
 - and of course, write scalable, maintainable code - at least, I do my best to achieve it!
 
 Always with a smile and a hot drink (coffee or tea, your pick 🍵) — because for me, coding is about enjoying the ride, not just writing lines of code!
 
 <br>
 
-## My Toolbox
+<details>
+<summary><h2>My Toolbox</h2></summary>
 
-### Web integration: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
+#### Web integration:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
 
-- Mobile-first approach and responsive design.
+  <!-- - **Responsive design**. -->
 
-### Frontend development
+#### Frontend development:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
 
-### Backend development
+#### Backend development:
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=plastic&logo=express&logoColor=white)
 
-### Databases
+#### Databases:
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white)
 
-- DB modeling with **draw.io** and **looping** according to **MERISE methodology**.
+  <!-- - **DB modeling** with *draw.io* and *looping* according to *MERISE methodology*. -->
 
-### Data transformation and analysis
+<!-- ### Data transformation and analysis ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white) – *work in progress* – -->
 
-– *work in progress* –
+#### Mockup, wireframing and design tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
+![moqups](https://img.shields.io/badge/moqups-000000?style=plastic&logo=moqups&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
 
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=plastic&logo=VSCode&logoColor=white)
+#### Version control
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
 ![Git Bash](https://img.shields.io/badge/Git%20Bash-4EAA25?style=plastic&logo=gnu-bash&logoColor=white)
 
-### Mockup, wireframing and design tools
+#### IDEs and code editors
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
-![moqups](https://img.shields.io/badge/moqups-000000?style=plastic&logo=moqups&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=plastic&logo=VSCode&logoColor=white)
+![xCode](https://img.shields.io/badge/xCode-000000?style=plastic&logo=xcode&logoColor=white)
 
-![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=plastic&logo=inkscape&logoColor=white) *work in progress*
-
--- Further informations are coming soon --
+</details>
 
 <br>
 
-<!-- TODO ## 📫 Let's Connect! -->
+## Let's Connect!
+
+![Likedin](img/icons/Linkedin-icon.svg) [sabinelaurent-dev](https://www.linkedin.com/in/sabinelaurent-dev/)
+
+<!-- [![LinkedIn: in/sabinelaurent-dev](https://img.shields.io/badge/LinkedIn-in/sabinelaurent--dev-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabinelaurent-dev/) -->
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=SabineLaurent&color=0A66C2&style=flat&label=Profile+views)
 
 <!-- ![SabineLaurent's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabinelaurent&theme=vision-friendly-dark&show_icons=true&include_all_commits=true) -->
+
