@@ -58,7 +58,7 @@ I can *(not an exhaustive list, capabilities are extendable with time and a lot 
 - create Super web and mobile apps;
 - develop secured backends as recommended by OWASP;
 - deal with SQL queries;
-- design responsive ande user-friendly interfaces;
+- design responsive and user-friendly interfaces;
 - and of course, write scalable, maintainable code - at least, I do my best to achieve it!
 
 Always with a smile and a hot drink (coffee or tea, your pick 🍵) — because for me, coding is about enjoying the ride, not just writing lines of code!
@@ -70,64 +70,47 @@ Always with a smile and a hot drink (coffee or tea, your pick 🍵) — because 
 <details>
 <summary><i>Stack and tools details</i></summary>
 
-#### Web integration:
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-&nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+#### - Web integration: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) &nbsp;&nbsp; ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
   <!-- - **Responsive design**. -->
 
-#### Frontend development:
+#### - Frontend development: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+#### - Backend development: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) &nbsp;&nbsp; ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 
-#### Backend development:
+#### - Databases: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) &nbsp;&nbsp; ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-&nbsp;&nbsp;
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-
-#### Databases:
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-&nbsp;&nbsp;
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+---
 
   <!-- - **DB modeling** with *draw.io* and *looping* according to *MERISE methodology*. -->
 
-<!-- ### Data transformation and analysis ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white) – *work in progress* – -->
+<!-- ### Data transformation and analysis: ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white) – *work in progress* – -->
 
-#### Mockup, wireframing and design tools
+#### - Mockup, wireframing and design tools: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![moqups](https://img.shields.io/badge/moqups-000000?logo=moqups&logoColor=white) &nbsp;&nbsp; ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
+#### - Version control: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) &nbsp;&nbsp; ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) &nbsp;&nbsp; ![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white)
+
+#### - IDEs and code editors: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=VSCode&logoColor=white) &nbsp;&nbsp; ![XCode](https://img.shields.io/badge/XCode-000000?logo=xcode&logoColor=white)
+
+#### - Operating systems: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white) &nbsp;&nbsp; ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) &nbsp;&nbsp; ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
+
+<!-- TODO #### - Other tools
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![moqups](https://img.shields.io/badge/moqups-000000?logo=moqups&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 &nbsp;&nbsp;
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-
-#### Version control
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 &nbsp;&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
 &nbsp;&nbsp;
-![Git Bash](https://img.shields.io/badge/Git%20Bash-4EAA25?logo=gnu-bash&logoColor=white)
-
-#### IDEs and code editors
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=VSCode&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B328C?logo=eslint&logoColor=white)
 &nbsp;&nbsp;
-![XCode](https://img.shields.io/badge/XCode-000000?logo=xcode&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F75B93?logo=prettier&logoColor=white) -->
 
 </details>
 
 <br>
+
+<!-- TODO ## Main projects -->
 
 ## Let's Connect!
 
@@ -136,7 +119,11 @@ Always with a smile and a hot drink (coffee or tea, your pick 🍵) — because 
 &nbsp;
 [sabinelaurent-dev](https://www.linkedin.com/in/sabinelaurent-dev/)
 
+<br>
+
 ---
+
+<br>
 
 ![Profile views](https://komarev.com/ghpvc/?username=SabineLaurent&color=0A66C2&style=flat&label=Profile+views)
 
