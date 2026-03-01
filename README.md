@@ -65,28 +65,38 @@ Always with a smile and a hot drink (coffee or tea, your pick 🍵) — because 
 
 <br>
 
+## My ToolBox
+
 <details>
-<summary><h2>My Toolbox</h2></summary>
+<summary><i>Stack and tools details</i></summary>
 
 #### Web integration:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
   <!-- - **Responsive design**. -->
 
 #### Frontend development:
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 #### Backend development:
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=plastic&logo=express&logoColor=white)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+&nbsp;&nbsp;
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 
 #### Databases:
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+&nbsp;&nbsp;
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 
   <!-- - **DB modeling** with *draw.io* and *looping* according to *MERISE methodology*. -->
 
@@ -94,19 +104,26 @@ Always with a smile and a hot drink (coffee or tea, your pick 🍵) — because 
 
 #### Mockup, wireframing and design tools
 
-![moqups](https://img.shields.io/badge/moqups-000000?style=plastic&logo=moqups&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![moqups](https://img.shields.io/badge/moqups-000000?logo=moqups&logoColor=white)
+&nbsp;&nbsp;
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 #### Version control
 
-![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
-![Git Bash](https://img.shields.io/badge/Git%20Bash-4EAA25?style=plastic&logo=gnu-bash&logoColor=white)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+&nbsp;&nbsp;
+![Git Bash](https://img.shields.io/badge/Git%20Bash-4EAA25?logo=gnu-bash&logoColor=white)
 
 #### IDEs and code editors
 
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=plastic&logo=VSCode&logoColor=white)
-![xCode](https://img.shields.io/badge/xCode-000000?style=plastic&logo=xcode&logoColor=white)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=VSCode&logoColor=white)
+&nbsp;&nbsp;
+![XCode](https://img.shields.io/badge/XCode-000000?logo=xcode&logoColor=white)
 
 </details>
 
@@ -114,13 +131,13 @@ Always with a smile and a hot drink (coffee or tea, your pick 🍵) — because 
 
 ## Let's Connect!
 
-![Likedin](img/icons/Linkedin-icon.svg) [sabinelaurent-dev](https://www.linkedin.com/in/sabinelaurent-dev/)
-
-<!-- [![LinkedIn: in/sabinelaurent-dev](https://img.shields.io/badge/LinkedIn-in/sabinelaurent--dev-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabinelaurent-dev/) -->
+&nbsp; &nbsp;
+<img src="img/icons/Linkedin-icon.svg" alt="LinkedIn" width="18"/>
+&nbsp;
+[sabinelaurent-dev](https://www.linkedin.com/in/sabinelaurent-dev/)
 
 ---
 
 ![Profile views](https://komarev.com/ghpvc/?username=SabineLaurent&color=0A66C2&style=flat&label=Profile+views)
 
 <!-- ![SabineLaurent's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabinelaurent&theme=vision-friendly-dark&show_icons=true&include_all_commits=true) -->
-
